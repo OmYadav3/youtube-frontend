@@ -1,8 +1,57 @@
-# React + Vite
+# Youtube Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Design preview of Youtube backend](./public/desktop-preview.jpg)
 
-Currently, two official plugins are available:
+## Welcome! 👋
+This is Youtube frontend
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+
+
+## Overview
+
+## The challenge
+
+
+
+
+### Links
+
+- Solution URL: [https://github.com/OmYadav3/youtube-frontend](https://github.com/OmYadav3/youtube-frontend)
+- Live Site URL: []()
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [ReactJs](https://react.dev/)
+- [TailwindCss](https://tailwindcss.com/) - For styles
+
+
+### what I learned
+
+- how to use tailwindCss in react.js
+- how to use custom Tailwind  
+- how to make the responsive layout in tailwindCss for all devices
+- how to import a font family by links 
+- how to use react hooks 
+
+## Author
+
+- LinkedIn - [OmYadav3](https://www.linkedin.com/in/omyadav3/)
+- Twitter - [@omyadav_3](https://twitter.com/Omyadav_3)
+- Portfolio - [OmYadav](https://omyadav-portfolio.netlify.app)
+
+
